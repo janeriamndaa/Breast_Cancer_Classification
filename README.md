@@ -1,1 +1,2 @@
-# Breast_Cancer_Classification
+# Breast Cancer Classification
+The project imported the libraries used in the program, namely pandas for reading and managing data, numpy for numerical operations, matplotlib and seaborn for data visualization, train_test_split to split the dataset into training & test data, RandomForestClassifier as the classification model, as well as various evaluation metrics such as accuracy, confusion matrix, classification report, ROC curve, and AUC score.
